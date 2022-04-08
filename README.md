@@ -27,9 +27,9 @@ Sample Data:
 ```
 
 ## Executing
-* You'll need a redshift cluster running and fill the information needed at dwh.cfg file.
+* You'll need a redshift cluster running and fill the information needed at [dwh.cfg](https://github.com/ErichDs/AWS_sparkify_etl_training/blob/main/dwh.cfg) file.
 
-1st: Run the create_tables.py script
+1st: Run the [create_tables.py](https://github.com/ErichDs/AWS_sparkify_etl_training/blob/main/create_tables.py) script
 
-2nd: Run the etl.py script
+2nd: Run the [etl.py](https://github.com/ErichDs/AWS_sparkify_etl_training/blob/main/etl.py) script
 
